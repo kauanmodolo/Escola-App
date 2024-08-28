@@ -1,0 +1,14 @@
+C:\tmp\Escola\bin\Debug\net8.0\Escola.exe
+C:\tmp\Escola\bin\Debug\net8.0\Escola.deps.json
+C:\tmp\Escola\bin\Debug\net8.0\Escola.runtimeconfig.json
+C:\tmp\Escola\bin\Debug\net8.0\Escola.dll
+C:\tmp\Escola\bin\Debug\net8.0\Escola.pdb
+C:\tmp\Escola\obj\Debug\net8.0\Escola.GeneratedMSBuildEditorConfig.editorconfig
+C:\tmp\Escola\obj\Debug\net8.0\Escola.AssemblyInfoInputs.cache
+C:\tmp\Escola\obj\Debug\net8.0\Escola.AssemblyInfo.cs
+C:\tmp\Escola\obj\Debug\net8.0\Escola.csproj.CoreCompileInputs.cache
+C:\tmp\Escola\obj\Debug\net8.0\Escola.dll
+C:\tmp\Escola\obj\Debug\net8.0\refint\Escola.dll
+C:\tmp\Escola\obj\Debug\net8.0\Escola.pdb
+C:\tmp\Escola\obj\Debug\net8.0\Escola.genruntimeconfig.cache
+C:\tmp\Escola\obj\Debug\net8.0\ref\Escola.dll
